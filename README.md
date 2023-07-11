@@ -1,3 +1,5 @@
+![](https://github.com/dipnerreddy/dipnerreddy#:~:text=WhatsApp%20Image%202023%2D07%2D11%20at%203.49.55%20PM.jpeg)
+
 <h1 align="center">Hi 👋, I'm Avuthu Dipner Reddy</h1>
 <h3 align="center">A passionate CS Student from India</h3>
 
