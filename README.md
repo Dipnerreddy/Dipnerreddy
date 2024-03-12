@@ -1,4 +1,4 @@
-(https://github.com/dipnerreddy/dipnerreddy/blob/main/WhatsApp%20Image%202023-07-11%20at%203.49.55%20PM.jpeg)
+![logo](https://github.com/dipnerreddy/dipnerreddy/blob/main/WhatsApp%20Image%202023-07-11%20at%203.49.55%20PM.jpeg)
 
 <h1 align="center">Hi 👋, I'm Avuthu Dipner Reddy</h1>
 <h3 align="center">A passionate CS Student from India</h3>
