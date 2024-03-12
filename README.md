@@ -1,9 +1,9 @@
-![logo](https://github.com/dipnerreddy/dipnerreddy/blob/main/WhatsApp%20Image%202023-07-11%20at%203.49.55%20PM.jpeg)
+![image](https://github.com/dipnerreddy/dipnerreddy/assets/89031602/c812065d-7a74-45ca-96cb-2ed82b3ea0f8)![logo](https://github.com/dipnerreddy/dipnerreddy/blob/main/WhatsApp%20Image%202023-07-11%20at%203.49.55%20PM.jpeg)
 
 <h1 align="center">Hi 👋, I'm Avuthu Dipner Reddy</h1>
 <h3 align="center">A passionate CS Student from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif](https://cdn.dribbble.com/users/363821/screenshots/3329508/media/c6bcd3e0db9e5d03fa06c3aef5d5ef2f.gif)">
+<img align="right" alt="coding" width="400" src="(https://cdn.dribbble.com/users/363821/screenshots/3329508/media/c6bcd3e0db9e5d03fa06c3aef5d5ef2f.gif)">
 
 
 <p align="left"> <a href="https://twitter.com/dipner_reddy" target="blank"><img src="https://img.shields.io/twitter/follow/dipner_reddy?logo=twitter&style=for-the-badge" alt="dipner_reddy" /></a> </p>
