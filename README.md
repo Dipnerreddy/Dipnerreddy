@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avuthu Dipner Reddy</h1>
 <h3 align="center">A passionate CS Student from India</h3>
 
-<img align="right" alt="coding" width="400" src="(https://cdn.dribbble.com/users/363821/screenshots/3329508/media/c6bcd3e0db9e5d03fa06c3aef5d5ef2f.gif)">
+<img align="right" alt="coding" width="400" src="">
 
 
 <p align="left"> <a href="https://twitter.com/dipner_reddy" target="blank"><img src="https://img.shields.io/twitter/follow/dipner_reddy?logo=twitter&style=for-the-badge" alt="dipner_reddy" /></a> </p>
