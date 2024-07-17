@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [http://dipnerreddy.infinityfreeapp.com/](http://dipnerreddy.infinityfreeapp.com/)
+- 👨‍💻 All of my projects are available at [http://dipnerreddy.in/](http://dipnerreddy.infinityfreeapp.com/)
 
 - 📝 I regularly write articles on [https://www.instagram.com/dipnerreddy.d_r/](https://www.instagram.com/dipnerreddy.d_r/)
 
